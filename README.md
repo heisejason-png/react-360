@@ -52,3 +52,4 @@ React 360 is [BSD licensed](./LICENSE). We also provide an additional [patent gr
 React documentation is [Creative Commons licensed](./LICENSE-docs).
 
 Examples provided in this repository and in the documentation are [separately licensed](./LICENSE-examples).
+Created by Jason Scott Heise
